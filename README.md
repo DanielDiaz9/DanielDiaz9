@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- Mi nombre es ***Daniel Felipe Diaz Salas***, soy estudiante de la Maestría en Ingeniería Electrónica con énfasis en Telecomunicaciones.
+Soy egresado de la Escuela del programa de Ingeniería Electrónica. 
+- Estoy interesado en este curso de Hello world, debido a que considero que los procesos de machine learning son importantes para el procesamiento y análisis de datos, los cuales son fundamentales para tomar decisiones, de acuerdo a la rama que se aplique.
+Mi trabajo de grado esta enfocado en el desarrollo de un sensor para capturar variables medioambientales por medio de IoT, las cuales se almacenarán en la nube. Como trabajo futuro, es procesar esta información y poder predecir los momentos indicados para agregar agua, nitratos y demas compuestos que necesitan las plantas.
+- Como hobbies tengo hacer ejercicio, montar bicicleta, conocer y preparar café y leer.
 <!--
 **DanielDiaz9/DanielDiaz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
